@@ -1,0 +1,3 @@
+run the non-rl -- get acc
+run the best-path of non-rl -- get acc
+run the rl -- get acc
